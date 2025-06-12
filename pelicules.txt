@@ -1,4 +1,8 @@
 La vida de Brian
 Los caballeros de la mesa cuadrada
 Monty Python and the Holy Grail
+<<<<<<< HEAD
 El sentido de la vida
+=======
+El sentit de la vida
+>>>>>>> d091e55 (Afegida El sentit de la vida)
